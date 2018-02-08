@@ -8,5 +8,5 @@ Which includes:
 4. support vector machine
 5. neural networks
 6. least squares regression
-7. clustering and 
+7. clustering
 8. principal component analysis
